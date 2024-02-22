@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Aleksandr
+### Hi 👋, my name is Aleksandr
 I am Python Developer
 
 I’m currently learning Python, Django, DRF, Flask, Postgresql
