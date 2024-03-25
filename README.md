@@ -3,4 +3,4 @@ I am Python Developer
 
 I’m currently learning Python, Django, DRF, Flask, PostgreSQL
 
-Skills: Python / Django/ DRF / Flask / PostgreSQL / SQL 
+Skills: Python / Django/ DRF / Flask / PostgreSQL / SQL / Redis
